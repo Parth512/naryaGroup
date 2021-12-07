@@ -68,21 +68,14 @@ body, html {
 }
 
 .slideshow li:nth-child(3) span {
-  background-image: url(../images/slider3.jpg);
+  background-image: url(../images/slider4.jpg);
   -webkit-animation-delay: 12s;
   -moz-animation-delay: 12s;
   animation-delay: 12s;
 }
 
 .slideshow li:nth-child(4) span {
-  background-image: url(../images/slider4.jpg);
-  -webkit-animation-delay: 18s;
-  -moz-animation-delay: 18s;
-  animation-delay: 18s;
-}
-
-.slideshow li:nth-child(5) span {
-  background-image: url(../images/slider5.jpg);
+  background-image: url(../images/slider3.jpg);
   -webkit-animation-delay: 18s;
   -moz-animation-delay: 18s;
   animation-delay: 18s;
